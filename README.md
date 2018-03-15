@@ -25,7 +25,7 @@ index.php / it is your default page to execute
 <h3>Step 2</h3>
 
  Create db connection 
-
+ <b>db.php</b>
 
    extract($_POST);<br/>
    $servername = "localhost";<br/>
@@ -53,7 +53,7 @@ goto template header.php and link jquery cdn file
 
 this is look like
 
-header.php
+<b>header.php</b>
 
 <!DOCTYPE html>
 <html>
