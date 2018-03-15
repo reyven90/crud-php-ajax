@@ -65,7 +65,7 @@ this is look like
 
 <b>index.php</b>
 
-
+<!-- 
 <?php require 'config/db.php' ?>
 <?php 
 
@@ -91,7 +91,7 @@ this is look like
 
    include 'template/content.php';
 ?>
-
+ -->
 
 
 
