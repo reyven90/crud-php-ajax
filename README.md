@@ -27,12 +27,12 @@ index.php / it is your default page to execute
  Create db connection 
 
 
-   extract($_POST);
-   $servername = "localhost";
-   $username = "root";
+   extract($_POST);<br/>
+   $servername = "localhost";<br/>
+   $username = "root";<br/>
    $password = "";
-   $database = "crud_review_2018";
-   $db = NULL;
+   $database = "crud_review_2018";<br/>
+   $db = NULL;<br/>
 
 
    try{
