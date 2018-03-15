@@ -47,25 +47,9 @@ index.php / it is your default page to execute
 
 goto template <b>header.php</b> and link jquery cdn file 
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-
-this is look like
-
-<b>header.php</b>
-
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Home</title>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-	<link rel="stylesheet" type="text/css" href="asset/custom.css">
-</head>
-   <body>
-
-
 
 <h3>You can download the Full Source Code and Free to Motify</h3>
-<h3>HAPPY CODDING :-) THANK YOU and God bless </h3>
+<h3>HAPPY CODDING :-) THANK YOU and God Bless </h3>
 
 https://github.com/reyven90/CrudPhpAjax.git
 
