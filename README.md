@@ -19,10 +19,9 @@ with the following features.
 - view  / it is your pages file and some simple native php logic  
 index.php / it is your default page to execute 
 
-<h3>Step 1</h3>
+<h3>CREATE DB</h3>
   Create database name crud_review_2018 and import the crud_review_2018.sql in you phpmyadmin.
 
-<h3>Step 2</h3>
 
  Create db connection 
  <b>db.php</b>
@@ -45,9 +44,8 @@ index.php / it is your default page to execute
 
 
 
-<h3>Step 3</h3>
 
-goto template header.php and link jquery cdn file 
+goto template <b>header.php</b> and link jquery cdn file 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
@@ -65,7 +63,7 @@ this is look like
    <body>
 
 
-<h3>index.php</h3>
+<b>index.php</b>
 
 
 <?php require 'config/db.php' ?>
@@ -93,3 +91,10 @@ this is look like
 
    include 'template/content.php';
 ?>
+
+
+
+
+<h3>You can download the Source Code and Free to Motify</h3>
+<h3>HAPPY CODDING :-) THANK YOU and God bless </h3>
+
