@@ -17,6 +17,13 @@
                $content = 'view/home.php';
                $js=array("asset/action.js");
    	    break;
+
+          default:
+               $title = 'home';
+               $active = 'home';
+               $content = 'view/home.php';
+               $js=array("asset/action.js");
+          break;
    }
 
    include 'template/content.php';
