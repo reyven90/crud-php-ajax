@@ -3,14 +3,14 @@
 This is a simple PHP JQUERY Ajax Crud 
 with the following features.
 
-<h3>SIMPLE FEATURES</h3>
+<h4>SIMPLE FEATURES</h4>
 
 - File upload 
 - Multiple Delete with Checkbox
 - Simple Pagination 
 
 
-<h3>CREATE FOLDER STRUCTURES</h3>
+<h4>CREATE FOLDER STRUCTURES</h4>
 
 - asset / it is  your action js
 - config / it is your database config
@@ -19,7 +19,7 @@ with the following features.
 - view  / it is your pages file and some simple native php logic  
 index.php / it is your default page to execute 
 
-<h3>CREATE DB</h3>
+<h4>CREATE DB</h4>
   Create database name crud_review_2018 and import the crud_review_2018.sql in you phpmyadmin.
 
 
@@ -48,7 +48,7 @@ index.php / it is your default page to execute
 goto template <b>header.php</b> and link jquery cdn file 
 
 
-<h3>You can download the Full Source Code and Free to Motify</h3>
+<h4>You can download the Full Source Code and Free to Motify</h4>
 <h3>HAPPY CODDING :-) THANK YOU and God Bless </h3>
 
 https://github.com/reyven90/CrudPhpAjax.git
