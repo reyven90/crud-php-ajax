@@ -26,7 +26,7 @@
 ```
 
  
-#### db.php 
+#### SQL 
 Create database and copy paste SQL Code below. 
 ```sql
     -- phpMyAdmin SQL Dump
@@ -100,7 +100,8 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 ```
-### Create database connection
+### db.php
+ Create database connection 
 ```php
 <?php session_start() ?>
 <?php 
